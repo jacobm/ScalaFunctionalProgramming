@@ -9,5 +9,9 @@ target
 .idea
 out
 
+# Ensime
+.ensime
+.ensime_cache
+
 # OS x specific
 .DS_Store
